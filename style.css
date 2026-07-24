@@ -3,8 +3,9 @@ body{
     color: #lalala
     font-family: 'Times New Roman', serif
 }
-header {text-align: center; 
-border-bottom: 3xp double #000;
+header {
+    text-align: center; 
+    border-bottom: 3xp double #000;
 }
 nav {
     text-align: center;
